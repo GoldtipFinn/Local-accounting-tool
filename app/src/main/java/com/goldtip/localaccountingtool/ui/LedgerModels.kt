@@ -1,6 +1,6 @@
-package com.goldtip.vivoledger.ui
+package com.goldtip.localaccountingtool.ui
 
-import com.goldtip.vivoledger.data.TransactionEntity
+import com.goldtip.localaccountingtool.data.TransactionEntity
 import java.time.LocalDate
 import java.time.YearMonth
 import java.util.Locale

@@ -1,4 +1,4 @@
-package com.goldtip.vivoledger.ui
+package com.goldtip.localaccountingtool.ui
 
 import android.content.Intent
 import android.provider.DocumentsContract
@@ -75,8 +75,8 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.goldtip.vivoledger.data.TransactionEntity
-import com.goldtip.vivoledger.data.TransactionType
+import com.goldtip.localaccountingtool.data.TransactionEntity
+import com.goldtip.localaccountingtool.data.TransactionType
 import java.time.format.DateTimeFormatter
 import java.util.Locale
 import kotlin.math.absoluteValue

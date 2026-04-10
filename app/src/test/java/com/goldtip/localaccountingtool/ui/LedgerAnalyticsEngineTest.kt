@@ -1,7 +1,7 @@
-package com.goldtip.vivoledger.ui
+package com.goldtip.localaccountingtool.ui
 
-import com.goldtip.vivoledger.data.TransactionEntity
-import com.goldtip.vivoledger.data.TransactionType
+import com.goldtip.localaccountingtool.data.TransactionEntity
+import com.goldtip.localaccountingtool.data.TransactionType
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
 import org.junit.Test

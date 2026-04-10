@@ -1,14 +1,14 @@
-package com.goldtip.vivoledger
+package com.goldtip.localaccountingtool
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.goldtip.vivoledger.ui.LedgerApp
-import com.goldtip.vivoledger.ui.LedgerViewModel
-import com.goldtip.vivoledger.ui.LedgerViewModelFactory
-import com.goldtip.vivoledger.ui.theme.LocalAccountingToolTheme
+import com.goldtip.localaccountingtool.ui.LedgerApp
+import com.goldtip.localaccountingtool.ui.LedgerViewModel
+import com.goldtip.localaccountingtool.ui.LedgerViewModelFactory
+import com.goldtip.localaccountingtool.ui.theme.LocalAccountingToolTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

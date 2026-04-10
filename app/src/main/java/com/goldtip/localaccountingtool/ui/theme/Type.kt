@@ -1,4 +1,4 @@
-package com.goldtip.vivoledger.ui.theme
+package com.goldtip.localaccountingtool.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

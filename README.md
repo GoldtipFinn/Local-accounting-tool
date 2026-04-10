@@ -15,7 +15,7 @@ Local-accounting-tool 适合以下使用方式：
 - 需要把数据导出到本地文件夹
 - 希望可以直接安装到 Android 手机使用
 
-当前应用包名：`com.goldtip.vivoledger`
+当前应用包名：`com.goldtip.localaccountingtool`
 
 ## 功能总览
 
@@ -78,7 +78,7 @@ Local-accounting-tool 适合以下使用方式：
 
 ```text
 app/
-├─ src/main/java/com/goldtip/vivoledger/
+├─ src/main/java/com/goldtip/localaccountingtool/
 │  ├─ MainActivity.kt
 │  ├─ data/
 │  │  ├─ Converters.kt

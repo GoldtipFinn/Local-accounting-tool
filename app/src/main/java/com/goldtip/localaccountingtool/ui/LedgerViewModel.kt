@@ -1,4 +1,4 @@
-package com.goldtip.vivoledger.ui
+package com.goldtip.localaccountingtool.ui
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -6,10 +6,10 @@ import android.net.Uri
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
-import com.goldtip.vivoledger.data.LedgerDatabase
-import com.goldtip.vivoledger.data.LedgerRepository
-import com.goldtip.vivoledger.data.TransactionEntity
-import com.goldtip.vivoledger.data.TransactionType
+import com.goldtip.localaccountingtool.data.LedgerDatabase
+import com.goldtip.localaccountingtool.data.LedgerRepository
+import com.goldtip.localaccountingtool.data.TransactionEntity
+import com.goldtip.localaccountingtool.data.TransactionType
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow

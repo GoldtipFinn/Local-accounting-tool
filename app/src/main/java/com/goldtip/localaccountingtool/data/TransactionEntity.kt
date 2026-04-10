@@ -1,4 +1,4 @@
-package com.goldtip.vivoledger.data
+package com.goldtip.localaccountingtool.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

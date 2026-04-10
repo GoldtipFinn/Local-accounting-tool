@@ -1,4 +1,4 @@
-package com.goldtip.vivoledger.data
+package com.goldtip.localaccountingtool.data
 
 import androidx.room.TypeConverter
 import java.time.LocalDate
