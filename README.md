@@ -259,4 +259,4 @@ gradle.bat -p D:\Desktop\tryAI testDebugUnitTest
 ## 许可证
 
 当前仓库未单独声明许可证。  
-如果准备公开发布到 GitHub，建议补充 `LICENSE` 文件后再开放分发。
+
