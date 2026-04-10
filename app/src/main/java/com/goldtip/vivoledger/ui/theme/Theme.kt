@@ -15,7 +15,7 @@ private val lightScheme = lightColorScheme(
 )
 
 @Composable
-fun VivoLedgerTheme(content: @Composable () -> Unit) {
+fun LocalAccountingToolTheme(content: @Composable () -> Unit) {
     MaterialTheme(
         colorScheme = lightScheme,
         typography = LedgerTypography,

@@ -1,4 +1,4 @@
-# VivoLedger
+# Local-accounting-tool
 
 一个纯本地运行的 Android 记账应用，使用 `Kotlin`、`Jetpack Compose` 和 `Room` 构建。  
 它面向“轻量、直接、本地优先”的个人记账场景：不接云端、不依赖服务器，把记账、统计和导出都放在手机端完成。
@@ -7,7 +7,7 @@
 
 ## 项目定位
 
-VivoLedger 适合以下使用方式：
+Local-accounting-tool 适合以下使用方式：
 
 - 想要一款纯本地记账 App
 - 不希望账单上传到云端
@@ -230,7 +230,3 @@ gradle.bat testDebugUnitTest
 - 更多图表维度
 - 备份与恢复
 
-## 许可证
-
-当前仓库还没有单独声明许可证。  
-如果准备公开发布，建议补充 `LICENSE` 文件后再对外分发。

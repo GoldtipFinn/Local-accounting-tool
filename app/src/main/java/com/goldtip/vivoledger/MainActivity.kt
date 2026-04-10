@@ -8,7 +8,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.goldtip.vivoledger.ui.LedgerApp
 import com.goldtip.vivoledger.ui.LedgerViewModel
 import com.goldtip.vivoledger.ui.LedgerViewModelFactory
-import com.goldtip.vivoledger.ui.theme.VivoLedgerTheme
+import com.goldtip.vivoledger.ui.theme.LocalAccountingToolTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,7 +16,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
 
         setContent {
-            VivoLedgerTheme {
+            LocalAccountingToolTheme {
                 val viewModel: LedgerViewModel = viewModel(
                     factory = LedgerViewModelFactory(applicationContext)
                 )

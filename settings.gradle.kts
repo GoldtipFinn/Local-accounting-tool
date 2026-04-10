@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "VivoLedger"
+rootProject.name = "Local-accounting-tool"
 include(":app")
